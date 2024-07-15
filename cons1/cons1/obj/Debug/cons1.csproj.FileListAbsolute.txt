@@ -1,0 +1,7 @@
+E:\doty\MoshTutorial\cons1\cons1\bin\Debug\cons1.exe.config
+E:\doty\MoshTutorial\cons1\cons1\bin\Debug\cons1.exe
+E:\doty\MoshTutorial\cons1\cons1\bin\Debug\cons1.pdb
+E:\doty\MoshTutorial\cons1\cons1\obj\Debug\cons1.csproj.AssemblyReference.cache
+E:\doty\MoshTutorial\cons1\cons1\obj\Debug\cons1.csproj.CoreCompileInputs.cache
+E:\doty\MoshTutorial\cons1\cons1\obj\Debug\cons1.exe
+E:\doty\MoshTutorial\cons1\cons1\obj\Debug\cons1.pdb

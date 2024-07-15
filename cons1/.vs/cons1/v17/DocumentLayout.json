@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\doty\\MoshTutorial\\cons1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F8397D-96A4-4CF1-AD5E-7714AA267608}|cons1\\cons1.csproj|e:\\doty\\moshtutorial\\cons1\\cons1\\hawa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F8397D-96A4-4CF1-AD5E-7714AA267608}|cons1\\cons1.csproj|solutionrelative:cons1\\hawa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F8397D-96A4-4CF1-AD5E-7714AA267608}|cons1\\cons1.csproj|e:\\doty\\moshtutorial\\cons1\\cons1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F8397D-96A4-4CF1-AD5E-7714AA267608}|cons1\\cons1.csproj|solutionrelative:cons1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\doty\\MoshTutorial\\cons1\\cons1\\Program.cs",
+              "RelativeDocumentMoniker": "cons1\\Program.cs",
+              "ToolTip": "E:\\doty\\MoshTutorial\\cons1\\cons1\\Program.cs",
+              "RelativeToolTip": "cons1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:23:33.786Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hawa.cs",
+              "DocumentMoniker": "E:\\doty\\MoshTutorial\\cons1\\cons1\\hawa.cs",
+              "RelativeDocumentMoniker": "cons1\\hawa.cs",
+              "ToolTip": "E:\\doty\\MoshTutorial\\cons1\\cons1\\hawa.cs",
+              "RelativeToolTip": "cons1\\hawa.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:25:21.379Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

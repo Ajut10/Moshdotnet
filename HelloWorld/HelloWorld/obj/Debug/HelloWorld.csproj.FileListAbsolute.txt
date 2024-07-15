@@ -1,0 +1,7 @@
+E:\doty\MoshTutorial\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\doty\MoshTutorial\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\doty\MoshTutorial\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\doty\MoshTutorial\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+E:\doty\MoshTutorial\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\doty\MoshTutorial\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\doty\MoshTutorial\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

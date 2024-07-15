@@ -1,0 +1,7 @@
+E:\doty\MoshTutorial\constructor\constructor\bin\Debug\constructor.exe.config
+E:\doty\MoshTutorial\constructor\constructor\bin\Debug\constructor.exe
+E:\doty\MoshTutorial\constructor\constructor\bin\Debug\constructor.pdb
+E:\doty\MoshTutorial\constructor\constructor\obj\Debug\constructor.csproj.AssemblyReference.cache
+E:\doty\MoshTutorial\constructor\constructor\obj\Debug\constructor.csproj.CoreCompileInputs.cache
+E:\doty\MoshTutorial\constructor\constructor\obj\Debug\constructor.exe
+E:\doty\MoshTutorial\constructor\constructor\obj\Debug\constructor.pdb

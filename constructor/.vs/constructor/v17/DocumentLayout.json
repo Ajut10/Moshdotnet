@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\doty\\MoshTutorial\\constructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AA24C-197E-48E4-8B2C-D28909E2E4AF}|constructor\\constructor.csproj|e:\\doty\\moshtutorial\\constructor\\constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AA24C-197E-48E4-8B2C-D28909E2E4AF}|constructor\\constructor.csproj|solutionrelative:constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AA24C-197E-48E4-8B2C-D28909E2E4AF}|constructor\\constructor.csproj|e:\\doty\\moshtutorial\\constructor\\constructor\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AA24C-197E-48E4-8B2C-D28909E2E4AF}|constructor\\constructor.csproj|solutionrelative:constructor\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\doty\\MoshTutorial\\constructor\\constructor\\Customer.cs",
+              "RelativeDocumentMoniker": "constructor\\Customer.cs",
+              "ToolTip": "E:\\doty\\MoshTutorial\\constructor\\constructor\\Customer.cs",
+              "RelativeToolTip": "constructor\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:31:22.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\doty\\MoshTutorial\\constructor\\constructor\\Program.cs",
+              "RelativeDocumentMoniker": "constructor\\Program.cs",
+              "ToolTip": "E:\\doty\\MoshTutorial\\constructor\\constructor\\Program.cs",
+              "RelativeToolTip": "constructor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:26:56.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
